@@ -18,4 +18,5 @@ If you are developing a production application, we recommend using TypeScript wi
 
 
 
-🚀 Live Demo Check out the live demo here: online-shopping-li.netlify.app
+🚀 Live Demo Check out the live demo here: https://online-shopping-li.netlify.app
+
